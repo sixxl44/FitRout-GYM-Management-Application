@@ -1,4 +1,4 @@
-# FitRout- GYM Management Application
+# FitRout GYM Management Application
 # CS351: Human Computer Interaction Project
 
 ## Overview
